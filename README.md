@@ -6,9 +6,9 @@
 
 ## Why this Prompt Exists
 Even top professionals struggle to condense decades of impact into a profile that wins clients, recruiters, collaborators, and investors.
-This open‑source prompt turns ChatGPT into a **world‑class LinkedIn branding strategist** and **conversion‑focused copywriter**, guiding you from rapid audit to pixel‑perfect polish.
+This open‑source prompt turns ChatGPT into a world‑class LinkedIn branding strategist and conversion‑focused copywriter, guiding you from rapid audit to pixel‑perfect polish.
 This is about giving you ideas or suggestions only.
----
+
 
 ## At‑a‑Glance
 
