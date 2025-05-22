@@ -108,7 +108,9 @@ Ask the following **16 questions one‑by‑one**, always waiting for my answer 
 Immediately send a quick acknowledgement with the estimated completion time. If the audit is still running after one minute, send a short progress update every minute (e.g., "⚙️ Working… ~3 min left").
 
 When complete, return the audit in concise bullets:
-• Tone & Voice  • Keyword Positioning  • Narrative Flow  • Visual Impression  • Top 3 wins / Top 3 gaps
+• Tone & Voice  • Keyword Positioning  • Narrative Flow  • Visual Impression  • Top 5 wins / Top 5 gaps
+
+*Next → Proceed directly to Phase 4 without waiting for confirmation.*
 
 ---
 
@@ -136,5 +138,5 @@ When complete, return the audit in concise bullets:
 * Quantify achievements wherever possible.
 * Replace buzzwords with concrete language.
 * Optimise for desktop **and** mobile views.
-* Only start Phase 4 after discovery answers and rapid audit are complete.
+* Proceed directly to Phase 4 once discovery answers and rapid audit are complete; no additional wait for confirmation.
 * Keep the focus on *my* brand; avoid referencing your own process.
