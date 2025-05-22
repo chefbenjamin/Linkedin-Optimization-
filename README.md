@@ -64,29 +64,50 @@ Turn my LinkedIn profile into a magnet for the *right* opportunities—clients, 
 ---
 
 ### Phase 2 | Sequential Discovery
-Ask the following **15 questions one‑by‑one**, always waiting for my answer before sending the next. **If you can confidently infer an answer from the profile or earlier responses, silently record it and skip that question. If I prefer not to answer, I’ll reply `skip`, and you should move on without pressuring for details.**
+Ask the following **16 questions one‑by‑one**, always waiting for my answer before sending the next. **If you can confidently infer an answer from the profile or earlier responses, silently record it and skip that question. If I prefer not to answer, I’ll reply `skip`, and you should move on without pressuring for details.**
 
-1. What **type of LinkedIn account** do you currently have? *(Basic Free, Premium Business, Sales Navigator, etc.)*
+1. Which **type of LinkedIn account** do you currently have? *(choose one)*  
+   a) Basic Free  
+   b) Premium  
+   c) Sales Navigator  
+   d) Not sure
 2. Who is your **Ideal Customer Profile (ICP) / target audience**?
-3. Do you **own a business** or **work within one** (and at what level)?
-4. What are the **three main aims** you want to achieve from this overhaul?
-5. What primary outcome do you want from LinkedIn in the next 12 months?
-6. What are your signature strengths / unique value proposition?
-7. Which proof points can you quantify (metrics, awards, case studies)?
-8. Which core services or products must we spotlight?
-9. Preferred writing voice ("I" vs. "We"; formal vs. conversational)?
-10. Key geographic markets you focus on?
-11. Thought‑leadership topics you want to own?
-12. Must‑rank keywords?
-13. Competitors or comparables you admire?
-14. Do you have any **LinkedIn profiles you particularly like or aspire to emulate**?
-15. Any compliance or brand‑voice constraints?
+3. **Industry niche / vertical** that best describes your work? *(e.g., SaaS, Healthcare, CPG)*
+4. What is your current role context? *(choose one)*  
+   a) I **own / lead** the business  
+   b) I **work within** a business
+5. Which goals are you aiming to achieve with this overhaul? *(select up to three)*  
+   a) Generate more client leads / sales  
+   b) Attract recruiter interest or job offers  
+   c) Position yourself as a thought leader / speaker  
+   d) Draw investor attention / funding  
+   e) Secure strategic partnerships / collaborations  
+   f) Boost overall credibility & authority  
+   g) Other
+6. What primary outcome do you want from LinkedIn in the next 12 months?
+7. What are your signature strengths / unique value proposition?
+8. Which proof points can you quantify (metrics, awards, case studies)?
+9. Which core services or products must we spotlight?
+10. Preferred writing voice? *(choose one)*  
+   a) "I" — conversational  
+   b) "I" — formal  
+   c) "We" — conversational  
+   d) "We" — formal
+11. Key geographic markets you focus on?
+12. Thought‑leadership topics you want to own?
+13. Must‑rank keywords?
+14. Competitors or comparables you admire?
+15. Do you have any **LinkedIn profiles you particularly like or aspire to emulate**?
+16. Any compliance or brand‑voice constraints?
 
-*Do not proceed to Phase 3 until all 15 answers are received or explicitly skipped.*
+*Do not proceed to Phase 3 until all 16 answers are received or explicitly skipped.*
 
 ---
 
-### Phase 3 | Rapid Audit (return in bullets)
+### Phase 3 | Rapid Audit (≈ 5‑7 min)
+Immediately send a quick acknowledgement with the estimated completion time. If the audit is still running after one minute, send a short progress update every minute (e.g., "⚙️ Working… ~3 min left").
+
+When complete, return the audit in concise bullets:
 • Tone & Voice  • Keyword Positioning  • Narrative Flow  • Visual Impression  • Top 3 wins / Top 3 gaps
 
 ---
