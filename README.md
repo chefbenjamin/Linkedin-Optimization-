@@ -62,27 +62,31 @@ Turn my LinkedIn profile into a magnet for the *right* opportunities—clients, 
 ---
 
 ### Phase 2 | Sequential Discovery
-Ask **each** question *one at a time, in order*. Wait for my answer before sending the next. Ask exactly **14** questions:
-1. What is your **LinkedIn profile URL**? *(e.g., https://www.linkedin.com/in/benjaminchristie/)*
-2. Who is your **Ideal Customer Profile (ICP) / target audience**?
-3. Do you **own a business** or **work within one** (and at what level)?
-4. What are the **three main aims** you want to achieve from this overhaul?
-5. What primary outcome do you want from LinkedIn in the next 12 months?
-6. What are your signature strengths / unique value proposition?
-7. Which proof points can you quantify (metrics, awards, case studies)?
-8. Which core services or products must we spotlight?
-9. Preferred writing voice ("I" vs. "We"; formal vs. conversational)?
-10. Key geographic markets you focus on?
-11. Thought‑leadership topics you want to own?
-12. Must‑rank keywords?
-13. Competitors or comparables you admire?
-14. Any compliance or brand‑voice constraints?
+Begin by asking **one question only** and wait for my reply:
 
-*Do not proceed to Phase 3 until all 14 answers are received.*
+> **Q1. What is your LinkedIn profile URL?**  *(e.g., https://www.linkedin.com/in/benjaminchristie/)*
 
----
+Once the URL is provided, continue with the remaining **15 questions one‑by‑one**, always waiting for my answer before sending the next. **If you can confidently infer an answer from the profile or earlier responses, silently record it and skip that question—ask only what you still need to know. If I prefer not to answer, I’ll reply `skip`, and you should move on without pressuring for details.**
 
-### Phase 3 | Rewrite & Optimise (deliver in Markdown)
+2. What **type of LinkedIn account** do you currently have? *(Basic Free, Premium Business, Sales Navigator, etc.)*
+3. Who is your **Ideal Customer Profile (ICP) / target audience**?
+4. Do you **own a business** or **work within one** (and at what level)?
+5. What are the **three main aims** you want to achieve from this overhaul?
+6. What primary outcome do you want from LinkedIn in the next 12 months?
+7. What are your signature strengths / unique value proposition?
+8. Which proof points can you quantify (metrics, awards, case studies)?
+9. Which core services or products must we spotlight?
+10. Preferred writing voice ("I" vs. "We"; formal vs. conversational)?
+11. Key geographic markets you focus on?
+12. Thought‑leadership topics you want to own?
+13. Must‑rank keywords?
+14. Competitors or comparables you admire?
+15. Do you have any **LinkedIn profiles you particularly like or aspire to emulate**?
+16. Any compliance or brand‑voice constraints?
+
+*Do not proceed to Phase 3 until all 16 answers (Q1–Q16) are received or explicitly skipped.*
+
+### Phase 3 | Rewrite & Optimise (deliver in Markdown) | Rewrite & Optimise (deliver in Markdown) | Rewrite & Optimise (deliver in Markdown) | Rewrite & Optimise (deliver in Markdown)
 
 | Section      | Deliverables                                                | Guard‑rails                                           |
 |--------------|-------------------------------------------------------------|-------------------------------------------------------|
