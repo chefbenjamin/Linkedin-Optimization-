@@ -29,4 +29,4 @@ This open-source prompt turns ChatGPT into a **world-class LinkedIn branding str
 5. Implement, publish, and watch opportunities roll in.
 
 **Benjamin Christie**
-👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/benjaminchristie/)
+👉 <a href="https://www.linkedin.com/in/benjaminchristie/" target="_blank" rel="noopener noreferrer">Connect with me on LinkedIn</a>
