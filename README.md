@@ -14,18 +14,21 @@ This is about giving you ideas or suggestions only.
 
 | Phase | What Happens | Output |
 |-------|--------------|--------|
-| **1. Rapid Audit** | ChatGPT scans tone, keywords, narrative flow, visuals. | Bullet list: ✔ strengths / ✘ gaps |
-| **2. Sequential Discovery** | **16** laser‑focused questions, asked *one at a time* | laser‑focused questions, asked *one at a time*. | Your answers = creative brief |
-| **3. Rewrite & Optimise** | AI crafts headline, About, experience bullets, featured items, skills. | Markdown‑ready copy |
-| **4. Visual & Tech Guidance** | Banner concept, photo tips, custom URL, creator‑mode setup. | Action checklist |
+| **1. Profile URL** | ChatGPT asks for your LinkedIn profile link. | URL captured |
+| **2. Sequential Discovery** | **15** laser‑focused questions, asked *one at a time*. | Your answers = creative brief |
+| **3. Rapid Audit** | ChatGPT scans tone, keywords, narrative flow, visuals. | Bullet list: ✔ strengths / ✘ gaps |
+| **4. Rewrite & Optimise** | AI crafts headline, About, experience bullets, featured items, skills. | Markdown‑ready copy |
+| **5. Visual & Tech Guidance** | Banner concept, photo tips, custom URL, creator‑mode setup. | Action checklist |
 
 ---
 
 ## How to Use
 1. **Copy the prompt** below into ChatGPT (or your favourite GPT‑powered tool).
-2. Answer each question in sequence—depth = quality.
-3. Receive a polished profile rewrite plus a visual to‑do list.
-4. Implement, publish, and watch opportunities roll in.
+2. Provide your LinkedIn URL when asked.
+3. Answer each discovery question—depth = quality (you may reply `skip` to any question).
+4. Review the rapid audit insights.
+5. Receive a polished profile rewrite plus a visual to‑do list.
+6. Implement, publish, and watch opportunities roll in.
 
 ## Recommended Resources
 ChatGPT can consult these best‑practice guides when optimising your profile:
@@ -52,37 +55,42 @@ Turn my LinkedIn profile into a magnet for the *right* opportunities—clients, 
 
 ---
 
-### Phase 1 | Rapid Audit (return in bullets)
-• Tone & Voice  • Keyword Positioning  • Narrative Flow  • Visual Impression  • Top 3 wins / Top 3 gaps
+### Phase 1 | Capture Profile URL
+> **Q. What is your LinkedIn profile URL?**  *(e.g., https://www.linkedin.com/in/benjaminchristie/)*
+
+*Wait for my reply before continuing.*
 
 ---
 
 ### Phase 2 | Sequential Discovery
-Begin by asking **one question only** and wait for my reply:
+Ask the following **15 questions one‑by‑one**, always waiting for my answer before sending the next. **If you can confidently infer an answer from the profile or earlier responses, silently record it and skip that question. If I prefer not to answer, I’ll reply `skip`, and you should move on without pressuring for details.**
 
-> **Q1. What is your LinkedIn profile URL?**  *(e.g., https://www.linkedin.com/in/benjaminchristie/)*
+1. What **type of LinkedIn account** do you currently have? *(Basic Free, Premium Business, Sales Navigator, etc.)*
+2. Who is your **Ideal Customer Profile (ICP) / target audience**?
+3. Do you **own a business** or **work within one** (and at what level)?
+4. What are the **three main aims** you want to achieve from this overhaul?
+5. What primary outcome do you want from LinkedIn in the next 12 months?
+6. What are your signature strengths / unique value proposition?
+7. Which proof points can you quantify (metrics, awards, case studies)?
+8. Which core services or products must we spotlight?
+9. Preferred writing voice ("I" vs. "We"; formal vs. conversational)?
+10. Key geographic markets you focus on?
+11. Thought‑leadership topics you want to own?
+12. Must‑rank keywords?
+13. Competitors or comparables you admire?
+14. Do you have any **LinkedIn profiles you particularly like or aspire to emulate**?
+15. Any compliance or brand‑voice constraints?
 
-Once the URL is provided, continue with the remaining **15 questions one‑by‑one**, always waiting for my answer before sending the next. **If you can confidently infer an answer from the profile or earlier responses, silently record it and skip that question—ask only what you still need to know. If I prefer not to answer, I’ll reply `skip`, and you should move on without pressuring for details.**
+*Do not proceed to Phase 3 until all 15 answers are received or explicitly skipped.*
 
-2. What **type of LinkedIn account** do you currently have? *(Basic Free, Premium Business, Sales Navigator, etc.)*
-3. Who is your **Ideal Customer Profile (ICP) / target audience**?
-4. Do you **own a business** or **work within one** (and at what level)?
-5. What are the **three main aims** you want to achieve from this overhaul?
-6. What primary outcome do you want from LinkedIn in the next 12 months?
-7. What are your signature strengths / unique value proposition?
-8. Which proof points can you quantify (metrics, awards, case studies)?
-9. Which core services or products must we spotlight?
-10. Preferred writing voice ("I" vs. "We"; formal vs. conversational)?
-11. Key geographic markets you focus on?
-12. Thought‑leadership topics you want to own?
-13. Must‑rank keywords?
-14. Competitors or comparables you admire?
-15. Do you have any **LinkedIn profiles you particularly like or aspire to emulate**?
-16. Any compliance or brand‑voice constraints?
+---
 
-*Do not proceed to Phase 3 until all 16 answers (Q1–Q16) are received or explicitly skipped.*
+### Phase 3 | Rapid Audit (return in bullets)
+• Tone & Voice  • Keyword Positioning  • Narrative Flow  • Visual Impression  • Top 3 wins / Top 3 gaps
 
-### Phase 3 | Rewrite & Optimise (deliver in Markdown) | Rewrite & Optimise (deliver in Markdown) | Rewrite & Optimise (deliver in Markdown) | Rewrite & Optimise (deliver in Markdown)
+---
+
+### Phase 4 | Rewrite & Optimise (deliver in Markdown)
 
 | Section      | Deliverables                                                | Guard‑rails                                           |
 |--------------|-------------------------------------------------------------|-------------------------------------------------------|
@@ -94,7 +102,7 @@ Once the URL is provided, continue with the remaining **15 questions one‑by‑
 
 ---
 
-### Phase 4 | Visual & Technical Guidance
+### Phase 5 | Visual & Technical Guidance
 * Banner concept (imagery, hex colours, ≤ 40‑char hook)
 * Profile‑photo tips (pose, backdrop, expression)
 * Custom URL recommendation
@@ -106,5 +114,5 @@ Once the URL is provided, continue with the remaining **15 questions one‑by‑
 * Quantify achievements wherever possible.
 * Replace buzzwords with concrete language.
 * Optimise for desktop **and** mobile views.
-* Only start Phase 3 after all discovery answers are in.
+* Only start Phase 4 after discovery answers and rapid audit are complete.
 * Keep the focus on *my* brand; avoid referencing your own process.
