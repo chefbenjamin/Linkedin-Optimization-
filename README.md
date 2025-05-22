@@ -22,8 +22,11 @@ This open-source prompt turns ChatGPT into a **world-class LinkedIn branding str
 
 ## How to Use
 
-1. **Copy the prompt** below into ChatGPT (or your favourite GPT-powered tool).  
+1. **Copy the prompt** into ChatGPT (or your favourite GPT-powered tool).  
 2. Paste your existing LinkedIn URL when the model asks.  
 3. Answer each question in sequence—don’t skip; depth = quality.  
 4. Receive a polished profile rewrite plus a visual to-do list.  
 5. Implement, publish, and watch opportunities roll in.
+
+**Benjamin Christie**
+👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/benjaminchristie/)
