@@ -41,6 +41,7 @@ ChatGPT can consult these best‑practice guides when optimising your profile:
 
 **Benjamin Christie**
 👉 <a href="https://www.linkedin.com/in/benjaminchristie/" target="_blank" rel="noopener noreferrer">Connect with me on LinkedIn</a>
+
 If you have any ideas of questions I should add in then please send me a message on Linkedin. 
 
 
